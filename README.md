@@ -6,5 +6,6 @@
   <li>The image on the bottom-left is the ECCV model output of the image.</li>
   <li>The image on the bottom-right is the SIGGRAPH model output of the image.</li>
 </ul> 
- <h3/> 
+<h3/>
+
 ![Results](https://github.com/anubhavagr/no_more_BWs/blob/master/result.png?raw=true)
